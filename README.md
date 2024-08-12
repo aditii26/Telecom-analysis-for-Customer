@@ -7,7 +7,7 @@ Customers in the telecom industry are invaluable assets. As the **Retention Mana
 *Figure 1: Telecom Customer Churn Analysis Dashboard*
 
 ![Telecom Dashboard 2](TelecomDashboard2.jpeg)
-*Figure 2: Detailed Customer Retention Insights*
+*Figure 2: Telecom Customer Churn Analysis Dashboard2*
 
 ### **Project Details**
 
